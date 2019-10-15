@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Example05 - LowMan/LowMan/playerFollowScript.cs">
+    <Files>
+      <File FileName="Assets/Example05 - LowMan/LowMan/playerController.cs" Line="18" Column="9" />
+      <File FileName="Assets/Example05 - LowMan/LowMan/playerFollowScript.cs" Line="28" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="76e467b0-1a83-417c-97f9-fed81d3f7112" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
